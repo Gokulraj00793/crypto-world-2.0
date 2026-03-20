@@ -8,7 +8,7 @@ CryptoPulse is a high-performance, institutional-grade cryptocurrency dashboard 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Library/Framework | Purpose | Why Chosen? |
 | :--- | :--- | :--- |
